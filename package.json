@@ -1,0 +1,16 @@
+{
+  "name": "@cactive/progress",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "source": "src/index.ts",
+  "author": "Cactive",
+  "license": "SEE LICENSE IN LICENCE.md",
+  "homepage": "https://cactive.com.au",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CactiveNetwork/progress.git"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
