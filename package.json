@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/CactiveNetwork/progress.git"
   },
+  "scripts": {
+    "build": "rm -rf dist/* && microbundle"
+  },
   "devDependencies": {
+    "microbundle": "^0.15.1",
     "prettier": "^2.7.1"
   }
 }

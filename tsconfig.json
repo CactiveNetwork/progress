@@ -9,8 +9,6 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "typeRoots": [],
-    "outDir": "dist/",
-    "rootDir": "src/",
   },
   "include": ["src/**/*"]
 }

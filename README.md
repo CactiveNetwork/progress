@@ -39,9 +39,11 @@ const progress = new Progress({
   
   // By default the progress bar will use a gradient.
   variant: "gradient",
+  
+  // Override the default gradient
   gradient: {
-		from: "#7289da",
-        to: "#99aab5",
+    from: "#7289da",
+    to: "#99aab5",
   },
 });
 ```
